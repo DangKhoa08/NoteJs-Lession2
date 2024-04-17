@@ -1,0 +1,16 @@
+{
+  "name": "notejs-lession2",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "1. Khoi tao 1 du an notejs : npm init\r 2. npm install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
